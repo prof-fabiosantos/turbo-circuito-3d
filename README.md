@@ -1,5 +1,7 @@
 # Turbo Circuito 3D
 
+**▶ Jogue agora: https://prof-fabiosantos.github.io/turbo-circuito-3d/**
+
 Jogo de corrida 3D feito com [Three.js](https://threejs.org/), num único arquivo HTML. Corra 3 voltas contra 3 carros controlados pela IA e tente chegar em primeiro.
 
 ## Como jogar
